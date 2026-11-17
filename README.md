@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1e1b4b,100:0f172a&height=170&section=header&text=Sayanth%20KV&fontSize=48&fontColor=38bdf8&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20MERN%20Developer%20%7C%20Cybersecurity%20%26%20Bug%20Bounty%20Enthusiast&descAlignY=66&descSize=16&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1e1b4b,100:0f172a&height=170&section=header&text=Sayanth%20KV&fontSize=48&fontColor=38bdf8&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20MERN%20Developer%20%E2%80%A2%20Cybersecurity%20%2B%20Bug%20Bounty%20Enthusiast&descAlignY=66&descSize=16&descColor=94a3b8" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sayanth-thedeveloper" target="_blank">
