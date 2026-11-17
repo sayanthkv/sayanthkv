@@ -1,141 +1,95 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b1117&height=5&section=header"/>
-
-<br/>
-
 # SAYANTH KV
 
-### Full-Stack MERN Developer
+**FULL-STACK MERN DEVELOPER**
 
-**Building useful products. Solving real problems. Engineering better experiences.**
+Building web applications that solve real-world problems.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=550&lines=React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+REST+APIs;Exploring+Backend+Architecture;Turning+Ideas+Into+Working+Products" />
+[LinkedIn](https://www.linkedin.com/in/sayanth-thedeveloper) · [GitHub](https://github.com/sayanthkv) · [Email](mailto:sayanthsajeev363@gmail.com)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sayanth-thedeveloper">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-202B35?style=flat-square&logo=linkedin&logoColor=34D399"/>
-</a>
-<a href="mailto:sayanthsajeev363@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-202B35?style=flat-square&logo=gmail&logoColor=34D399"/>
-</a>
-<a href="https://github.com/sayanthkv">
-<img src="https://img.shields.io/badge/GitHub-Follow-202B35?style=flat-square&logo=github&logoColor=34D399"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%"/>
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=sayanthkv&style=flat-square&color=176B50&label=PROFILE+VIEWS"/>
+## About
+
+I'm a Full-Stack MERN Developer and BCA graduate from Yenepoya University, currently working as a MERN Stack Developer Intern at Softroniics.
+
+I enjoy building complete web applications, designing REST APIs, working with databases, and developing interactive user experiences.
+
+My approach to development goes beyond making things work. I enjoy understanding the engineering behind applications, solving real-world problems, and continuously improving the way I build software.
+
+- **Current Role:** MERN Stack Developer Intern at Softroniics, Kozhikode
+- **Education:** BCA Graduate, Yenepoya University
+- **Location:** Kannur, Kerala, India
+- **Primary Stack:** MongoDB, Express.js, React.js, Node.js
+- **Interests:** Backend Engineering, API Development, Real-Time Applications and System Design
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Frontend | React 19, JavaScript ES6+, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| Backend | Node.js, Express.js, REST APIs |
+| Real-Time | Socket.io, node-cron |
+| Database | MongoDB, Mongoose, ACID Transactions |
+| Authentication | JWT, Google OAuth 2.0 |
+| Cloud & Media | Vercel, Render, Cloudinary |
+| Tools | Git, GitHub, Postman, Figma, Docker |
+| Other | Matter.js, WebGL |
+
+<div align="center">
+
+**TECHNOLOGY TOOLKIT**
+
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,tailwind,bootstrap,git,github,postman,figma,docker,vercel&theme=dark" />
 
 </div>
 
 ---
 
-## 01. About Me
+## Featured Projects
 
-I'm a Full-Stack MERN Developer and BCA graduate from Yenepoya University, currently working as a MERN Stack Developer Intern at Softroniics.
+A selection of applications I've designed and developed, with an emphasis on practical functionality and backend engineering.
 
-I enjoy developing full-stack applications, designing REST APIs, working with databases, and creating interactive frontend experiences.
-
-My primary focus is understanding how applications work behind the scenes and building solutions that go beyond basic CRUD operations.
-
-```javascript
-const sayanth = {
-  name: "Sayanth KV",
-  role: "Full-Stack MERN Developer",
-  experience: "MERN Stack Developer Intern @ Softroniics",
-  education: "BCA Graduate — Yenepoya University",
-  location: "Kannur, Kerala, India",
-
-  interests: [
-    "Backend Engineering",
-    "REST API Development",
-    "Real-Time Applications",
-    "Database Architecture",
-    "Interactive React UIs"
-  ],
-
-  philosophy: "Learn. Build. Improve. Repeat."
-};
-```
-
----
-
-## 02. Tech Stack
-
-**Frontend Development**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=dark" />
-</p>
-
-**Backend & Real-Time Development**
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-<img src="https://img.shields.io/badge/Socket.io-202B35?style=flat-square&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-202B35?style=flat-square&logo=fastapi&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/node--cron-202B35?style=flat-square&logo=npm&logoColor=34D399"/>
-</p>
-
-**Database & Authentication**
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-<img src="https://img.shields.io/badge/Mongoose-202B35?style=flat-square&logo=mongoose&logoColor=880000"/>
-<img src="https://img.shields.io/badge/JWT-202B35?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20OAuth-202B35?style=flat-square&logo=google&logoColor=white"/>
-</p>
-
-**Tools & Deployment**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker,vercel&theme=dark" />
-<img src="https://img.shields.io/badge/Render-202B35?style=flat-square&logo=render&logoColor=46E3B7"/>
-<img src="https://img.shields.io/badge/Cloudinary-202B35?style=flat-square&logo=cloudinary&logoColor=3448C5"/>
-</p>
-
----
-
-## 03. Featured Projects
-
-A selection of full-stack applications and engineering experiments I've worked on.
-
-### 01 / Parkora
+### 01 — Parkora
 
 **Smart Urban Parking Reservation Platform**
 
-A full-stack parking management system modeled around Kannur, Kerala, designed to simplify parking discovery, availability tracking, and slot reservations.
+<sub>FULL-STACK MERN APPLICATION</sub>
 
-**Key Engineering Highlights**
+A smart parking management platform modeled around Kannur, Kerala. Designed to simplify parking discovery, availability tracking, and reservation management.
+
+**Engineering Highlights**
 
 - Implemented MongoDB ACID transactions to prevent double-booking during concurrent reservation requests.
 - Developed automated booking status lifecycles using node-cron.
 - Built QR-based ticket verification with camera and external scanner support.
 - Developed separate Customer, Staff, and Admin portals.
-- Implemented occupancy monitoring and revenue analytics.
+- Implemented parking facility management, occupancy monitoring, and revenue analytics.
 
-**Technology:** React · Node.js · Express.js · MongoDB · Mongoose · Recharts
+**Stack:** React · Node.js · Express.js · MongoDB · Mongoose · Recharts
 
-<p>
-<a href="https://parkora-kannur.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-176B50?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/sayanthkv">
-<img src="https://img.shields.io/badge/SOURCE%20CODE-202B35?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<sub>PROJECT LINKS</sub>
+
+[Live Application ↗](https://parkora-kannur.vercel.app/) · [GitHub Profile / Repositories ↗](https://github.com/sayanthkv?tab=repositories)
 
 ---
 
-### 02 / HireZone
+### 02 — HireZone
 
 **Recruitment & Applicant Tracking Platform**
 
-A full-stack recruitment platform connecting candidates and recruiters through job discovery, application management, and real-time communication.
+<sub>FULL-STACK MERN APPLICATION</sub>
 
-**Key Engineering Highlights**
+A recruitment platform connecting candidates and recruiters through job discovery, application management, and real-time communication.
+
+**Engineering Highlights**
 
 - Developed skill-prioritized job matching.
 - Built an interactive recruiter Kanban board for application pipeline management.
@@ -143,47 +97,47 @@ A full-stack recruitment platform connecting candidates and recruiters through j
 - Implemented JWT authentication and role-based authorization.
 - Integrated Google OAuth 2.0 authentication.
 
-**Technology:** React · Node.js · Express.js · MongoDB · Socket.io · JWT
+**Stack:** React · Node.js · Express.js · MongoDB · Socket.io · JWT
 
-<p>
-<a href="https://github.com/sayanthkv">
-<img src="https://img.shields.io/badge/PROJECT%20SOURCE-202B35?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<sub>PROJECT LINKS</sub>
+
+[GitHub Repositories ↗](https://github.com/sayanthkv?tab=repositories)
 
 ---
 
-### 03 / Interactive Portfolio
+### 03 — Interactive Portfolio
 
 **Physics-Enabled Developer Showcase**
 
-An interactive portfolio combining custom visual effects, physics-based interactions, and modern frontend experiences.
+<sub>FRONTEND ENGINEERING & INTERACTIVE EXPERIENCES</sub>
 
-**Key Engineering Highlights**
+An interactive developer portfolio designed to go beyond traditional static portfolio layouts, combining physics-based interactions and custom visual effects.
 
-- Created a Matter.js gravity playground.
+**Engineering Highlights**
+
+- Integrated Matter.js to create an interactive gravity playground.
 - Implemented inactivity-triggered vortex animations.
 - Developed an interactive drawing canvas.
 - Created cursor-reactive WebGL light tunnel effects.
-- Integrated smooth scrolling and interactive transitions.
+- Added smooth scrolling and interactive transitions.
 
-**Technology:** React 19 · JavaScript · Tailwind CSS v4 · Matter.js · WebGL
+**Stack:** React 19 · JavaScript · Tailwind CSS v4 · Matter.js · WebGL
 
-<p>
-<a href="https://github.com/sayanthkv/Portfolio-latest">
-<img src="https://img.shields.io/badge/PORTFOLIO%20SOURCE-202B35?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<sub>PROJECT LINKS</sub>
+
+[Portfolio Source Code ↗](https://github.com/sayanthkv/Portfolio-latest)
 
 ---
 
-### 04 / Fragranzia
+### 04 — Fragranzia
 
 **Full-Stack Perfume E-Commerce Storefront**
 
-A responsive e-commerce application designed for perfume discovery, shopping, and product management.
+<sub>FULL-STACK MERN APPLICATION</sub>
 
-**Key Engineering Highlights**
+A responsive perfume shopping platform featuring product discovery, personalized shopping functionality, and streamlined cart management.
+
+**Engineering Highlights**
 
 - Implemented multi-criteria product filtering.
 - Developed persistent cart and wishlist functionality.
@@ -191,70 +145,63 @@ A responsive e-commerce application designed for perfume discovery, shopping, an
 - Integrated Cloudinary image upload and management.
 - Developed product discovery and checkout workflows.
 
-**Technology:** React · Node.js · Express.js · MongoDB · Cloudinary
+**Stack:** React · Node.js · Express.js · MongoDB · Cloudinary
 
-<p>
-<a href="https://github.com/sayanthkv">
-<img src="https://img.shields.io/badge/PROJECT%20SOURCE-202B35?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<sub>PROJECT LINKS</sub>
+
+[GitHub Repositories ↗](https://github.com/sayanthkv?tab=repositories)
 
 ---
 
-## 04. Currently Working On
+## Current Experience
 
-### Softroniics LMS — Team Development
+### Softroniics — Learning Management System
 
-Collaborating with a four-developer team to build modules for a Learning Management System.
+**Team Development | 4 Developers**
 
-**Current Contributions**
+Currently collaborating with a four-developer team to develop modules for a Learning Management System.
+
+**My Contributions**
 
 - Syllabus Management Module
 - Schedule Management Module
-- Collaborative Git workflows
-- Feature development and integration
-- Frontend and backend coordination
+- Collaborative Git workflows and feature development
+- Frontend and backend integration
+- Team-based development and code coordination
 
-Also focusing on improving API performance, deployment workflows, and application responsiveness.
-
----
-
-## 05. GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sayanthkv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=E5E7EB"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanthkv&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=E5E7EB"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=sayanthkv&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=E5E7EB&dates=9CA3AF"/>
-
-</div>
+Alongside this, I'm continuously improving my understanding of backend architecture, API performance, deployment workflows, and application reliability.
 
 ---
 
-## 06. Let's Connect
+## Development Interests
+
+Things I enjoy exploring and improving:
+
+- Designing scalable backend architectures.
+- Building reliable REST APIs.
+- Managing concurrent database operations.
+- Developing real-time features with Socket.io.
+- Creating interactive frontend experiences.
+- Writing maintainable and reusable code.
+
+---
+
+## Let's Connect
+
+I'm interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities in Full-Stack Development.
 
 <div align="center">
 
-**Interested in collaboration, opportunities, or building something interesting?**
+**Have an interesting idea? Let's build something.**
 
 <br/>
 
-<a href="mailto:sayanthsajeev363@gmail.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-176B50?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-176B50?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanth-thedeveloper)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-202B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayanthsajeev363@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-202B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayanthkv)
 
-<a href="https://www.linkedin.com/in/sayanth-thedeveloper">
-<img src="https://img.shields.io/badge/LINKEDIN-202B35?style=for-the-badge&logo=linkedin&logoColor=34D399"/>
-</a>
+<br/>
 
-<br/><br/>
-
-*Thanks for visiting my profile. Have a great day!*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b1117&height=5&section=footer"/>
+*Learn. Build. Improve.*
 
 </div>
